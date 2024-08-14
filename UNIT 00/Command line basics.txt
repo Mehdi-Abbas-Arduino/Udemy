@@ -1,0 +1,6 @@
+dir: for the files in the directory 
+cls: To clear the command line screen 
+cd: To know in which directory you are 
+cd ..: To change the directory 
+cd name of the file: to change the directory 
+cd .file: to jump to a file 
